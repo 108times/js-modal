@@ -1,0 +1,26 @@
+{
+  "name": "js-modal",
+  "version": "1.0.0",
+  "description": "Js modal",
+  "main": "index.js",
+  "scripts": {
+    "serve": "parcel build index.html --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/108times/js-modal.git"
+  },
+  "keywords": [
+    "js",
+    "modal"
+  ],
+  "author": "Amir <amirkadenov@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/108times/js-modal/issues"
+  },
+  "homepage": "https://github.com/108times/js-modal#readme",
+  "devDependencies": {
+    "parcel": "^1.12.4"
+  }
+}
